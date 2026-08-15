@@ -1,0 +1,3 @@
+*.bat text working-tree-encoding=cp932 eol=crlf
+*.cmd text working-tree-encoding=cp932 eol=crlf
+*.ps1 text working-tree-encoding=cp932 eol=crlf
